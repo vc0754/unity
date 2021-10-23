@@ -12,12 +12,17 @@
 
 [当前阅读进度](https://learn.unity.com/tutorial/tian-chong-ni-de-shi-jie?uv=2020.3&projectId=5facfb7dedbc2a001f53383c#6073f4b4edbc2a001f576ac6)
 
+### * [Ruby's Adventure：2D 初学者](https://learn.unity.com/project/ruby-s-adventure-2d-chu-xue-zhe)
+
+[当前阅读进度 - 装饰世界](https://learn.unity.com/tutorial/zhuang-shi-shi-jie?uv=2020.3&projectId=5facf921edbc2a2003a58d3a)
+
 ## Cinemachine
 
 [Cinemachine](https://learn.unity.com/tutorial/cinemachine#)
 
 [摄像机 - Cinemachine](https://learn.unity.com/tutorial/she-xiang-ji-cinemachine?projectId=5facf921edbc2a2003a58d3a#)
 
+---
 
 ### 手册
 
@@ -25,6 +30,7 @@
 
 [瓦片地图渲染器 (Tilemap Renderer)](https://docs.unity3d.com/cn/2020.3/Manual/class-TilemapRenderer.html)
 
+---
 
 ### 哔哩哔哩
 
