@@ -47,6 +47,8 @@
 ## 最经典的十款 FC 红白机 RPG 游戏
 [百度贴吧](http://tieba.baidu.com/p/6841888066)
 
+## 付费
+[像素小人制作工具](https://booth.pm/zh-cn/items/2490778)
 ---
 
 ## Mac下.git文件夹不显示的问题
