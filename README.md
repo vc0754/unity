@@ -11,7 +11,7 @@
   项目 ● 初学者 ● 14 小时 20 分钟 ● 知识点 29 ● 类型 RPG
   
   ★ 当前阅读进度
-  [世界交互 - 阻止移动 - 12.添加瓦片地图碰撞](https://learn.unity.com/tutorial/shi-jie-jiao-hu-zu-zhi-yi-dong?uv=2020.3&projectId=5facf921edbc2a2003a58d3a#6073de22edbc2a0021c5b6fb)
+  [世界交互 - 1.向 Ruby 添加生命值统计功能](https://learn.unity.com/tutorial/shi-jie-jiao-hu-ke-shou-ji-dui-xiang?uv=2020.3&projectId=5facf921edbc2a2003a58d3a#6073de6cedbc2a73776d24b7)
 
   ---
 
@@ -52,6 +52,7 @@
 
 * 其他资源包
   * [资源包网站](http://www.zyb99.cn/241)
+  * [像素小人制作工具（付费）](https://booth.pm/zh-cn/items/2490778)
   * [indienova 独立游戏](https://indienova.com/sp/gameDevResource)
   * [百度贴吧 - 最经典的十款 FC 红白机 RPG 游戏](http://tieba.baidu.com/p/6841888066)
 
@@ -112,9 +113,6 @@ public class PlayerController : MonoBehaviour
 
 ```
 
-
-## 付费
-[像素小人制作工具](https://booth.pm/zh-cn/items/2490778)
 ---
 
 ## Mac下.git文件夹不显示的问题
