@@ -113,6 +113,8 @@ public class PlayerController : MonoBehaviour
 ```
 
 
+## 付费
+[像素小人制作工具](https://booth.pm/zh-cn/items/2490778)
 ---
 
 ## Mac下.git文件夹不显示的问题
