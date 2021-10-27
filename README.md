@@ -11,6 +11,7 @@
   项目 ● 初学者 ● 14 小时 20 分钟 ● 知识点 29 ● 类型 RPG
   
   ★ 当前阅读进度
+  [视觉风格 - 用户界面 - 抬头显示 - 7.什么是锚点？](https://learn.unity.com/tutorial/shi-jue-feng-ge-yong-hu-jie-mian-tai-tou-xian-shi?uv=2020.3&projectId=5facf921edbc2a2003a58d3a#6073e01bedbc2a0021c5b736)
   [精灵动画 - 1.Animator](https://learn.unity.com/tutorial/jing-ling-dong-hua?uv=2020.3&projectId=5facf921edbc2a2003a58d3a#6073def7edbc2a04020b22a0)
 
   ---
