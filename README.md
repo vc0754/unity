@@ -52,6 +52,17 @@
   * [Premium 2D Characters](https://assetstore.unity.com/packages/2d/characters/premium-2d-characters-98327)
 
 * 其他资源包
+  * [冒险酒吧的故事 - 成套2d素材(国外)](https://www.aigei.com/view/26191.html)
+  * [恐龙王 - 成套2d素材(国外)-地图可参考](https://www.aigei.com/view/30959.html?page=2)
+  * [Arcadias 战斗公主 - 成套2d素材(国外)](https://www.aigei.com/view/46094.html)
+  * [Nekketsu Kakutō Densetsu-成套2d素材(国外)](https://www.aigei.com/view/50898.html)
+  * [市中心的 Nekketsu 物语 - 成套2d素材(国外)](https://www.aigei.com/view/49877.html)
+  * [大骑士历史 - 成套2d素材(国外)](https://www.aigei.com/view/36688-21952585.html)
+  * [跨越边缘 - 成套2d素材(国外)](https://www.aigei.com/view/46124.html)
+  * [恶魔猎人传奇 - 成套2d素材(国外)](https://www.aigei.com/view/27141.html)
+  * [洛克人 X4 - 成套2d素材(国外)](https://www.aigei.com/view/53756.html)
+  * [最终幻想 : 勇敢 Exvius - 成套2d素材(国外)-整套格斗动作](https://www.aigei.com/view/27574.html?page=10)
+  * [城堡的冲突 - 成套2d素材(国外)](https://www.aigei.com/view/26715.html?page=2)
   * [资源包网站](http://www.zyb99.cn/241)
   * [像素小人制作工具（付费）](https://booth.pm/zh-cn/items/2490778)
   * [indienova 独立游戏](https://indienova.com/sp/gameDevResource)
