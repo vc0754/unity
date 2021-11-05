@@ -1,0 +1,3012 @@
+fileFormatVersion: 2
+guid: bf01ce85b02c77f4181eb0976c02a363
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3123549286475437379
+    second: Edward_0
+  - first:
+      213: -2380640562536638020
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_1
+  - first:
+      213: 5155355225343677543
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_2
+  - first:
+      213: -6316042803919118407
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_3
+  - first:
+      213: 2386812748151976600
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_4
+  - first:
+      213: 981103649014696879
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_5
+  - first:
+      213: 1041787618147489900
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_6
+  - first:
+      213: -3489111041564280736
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_7
+  - first:
+      213: -1042641924921694905
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_8
+  - first:
+      213: -8911349509406604630
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_9
+  - first:
+      213: 4286762292317356164
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_10
+  - first:
+      213: -4230685736346224388
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_11
+  - first:
+      213: -5183592308095084049
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_12
+  - first:
+      213: -6083354801306601734
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_13
+  - first:
+      213: -8017562919531701906
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_14
+  - first:
+      213: -6806739577286632698
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_15
+  - first:
+      213: -655317093809829468
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_16
+  - first:
+      213: -283277107881432111
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_17
+  - first:
+      213: 4788447207367996249
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_18
+  - first:
+      213: 9148716151766984754
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_19
+  - first:
+      213: -7196988371395744263
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_20
+  - first:
+      213: -541645714857721874
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_21
+  - first:
+      213: 4702767914200226059
+    second: Edward_22
+  - first:
+      213: -7056944874316132073
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_23
+  - first:
+      213: 4390016133160091938
+    second: Edward_24
+  - first:
+      213: -4802359342297923003
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_25
+  - first:
+      213: -2693198339952141635
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_26
+  - first:
+      213: 3580963583985101568
+    second: Edward_27
+  - first:
+      213: -3293268840223328046
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_28
+  - first:
+      213: -6496503323147957526
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_29
+  - first:
+      213: 3392277558692724417
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_30
+  - first:
+      213: -8116936343262274010
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_31
+  - first:
+      213: -4619955165693269486
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_32
+  - first:
+      213: 7007862389213506498
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_33
+  - first:
+      213: 818305246625884282
+    second: Edward_34
+  - first:
+      213: -2538726792821390702
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_35
+  - first:
+      213: 4707425285549501974
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_36
+  - first:
+      213: 2366963370726317396
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_37
+  - first:
+      213: -5923118023302946623
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_38
+  - first:
+      213: -61717233261020480
+    second: Edward_39
+  - first:
+      213: -3743604497273585169
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_40
+  - first:
+      213: 5068605472277950815
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_41
+  - first:
+      213: -7335631094417478080
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_42
+  - first:
+      213: 7673793911455836684
+    second: Edward_43
+  - first:
+      213: -1337269727435307623
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_44
+  - first:
+      213: -4059310463446896818
+    second: Edward_45
+  - first:
+      213: 5920557238705011898
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_46
+  - first:
+      213: -4730097692360448721
+    second: Edward_47
+  - first:
+      213: -8820649197377775381
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_48
+  - first:
+      213: 3505821635373882381
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_49
+  - first:
+      213: 60790004804526673
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_50
+  - first:
+      213: 8120007106065490763
+    second: Edward_51
+  - first:
+      213: -1857916448479308206
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_52
+  - first:
+      213: 1193318237746938175
+    second: Edward_53
+  - first:
+      213: 2836304919356976747
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_54
+  - first:
+      213: 8208011937163436423
+    second: Edward_55
+  - first:
+      213: 1702023377817768657
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_56
+  - first:
+      213: 2928918518954380421
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_57
+  - first:
+      213: 1243332234814868064
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_58
+  - first:
+      213: 5159541194918535398
+    second: Edward_59
+  - first:
+      213: -8979423992513155625
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_60
+  - first:
+      213: 7152826436864141797
+    second: Edward_61
+  - first:
+      213: -9106941266763776909
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_62
+  - first:
+      213: -6424738459215160884
+    second: Edward_63
+  - first:
+      213: 635343480776678675
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_64
+  - first:
+      213: 8155501400873813301
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_65
+  - first:
+      213: -417900821473407063
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_66
+  - first:
+      213: -8157653811866845063
+    second: Edward_67
+  - first:
+      213: -7711505255864070846
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_68
+  - first:
+      213: -7772844081942447836
+    second: Edward_69
+  - first:
+      213: -5384400582714955959
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_70
+  - first:
+      213: -8813026126988865000
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_71
+  - first:
+      213: 2050274052308761803
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_72
+  - first:
+      213: -5581615881087251719
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_73
+  - first:
+      213: 5574744312083932240
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_74
+  - first:
+      213: -4097742928415545420
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_75
+  - first:
+      213: 8648748206437678212
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_76
+  - first:
+      213: 828733346531545251
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_77
+  - first:
+      213: -2780296082529753525
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_78
+  - first:
+      213: -7696979365662434353
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_79
+  - first:
+      213: -1949239103944839421
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_80
+  - first:
+      213: -8586666016668988439
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_81
+  - first:
+      213: 6931844956501864691
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_82
+  - first:
+      213: -3182293467190266739
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_83
+  - first:
+      213: 5912903781193213714
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_84
+  - first:
+      213: -1570799815191854938
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_85
+  - first:
+      213: 8945149498440556042
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_86
+  - first:
+      213: -3978771510531267086
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_87
+  - first:
+      213: -3616633912290571950
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_88
+  - first:
+      213: -2181390934404888680
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_89
+  - first:
+      213: 1550655582751396309
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_90
+  - first:
+      213: 2810740810988332062
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_91
+  - first:
+      213: -7555711566815951892
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_92
+  - first:
+      213: -952833647619641166
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_93
+  - first:
+      213: 9219474042766408262
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_94
+  - first:
+      213: -2424007992190030575
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_95
+  - first:
+      213: -8731729131334206203
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_96
+  - first:
+      213: -97810913597948194
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_97
+  - first:
+      213: -7508346193495963788
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_98
+  - first:
+      213: 2919626197977316079
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_99
+  - first:
+      213: 5309904435287527941
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_100
+  - first:
+      213: -265991444641585846
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_101
+  - first:
+      213: -875162325569129255
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_102
+  - first:
+      213: 2348300270013323586
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_103
+  - first:
+      213: 3414509778235368859
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_104
+  - first:
+      213: 7732390263239877454
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_105
+  - first:
+      213: 5078080278015126808
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_106
+  - first:
+      213: 5941287711021260574
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_113
+  - first:
+      213: -830423276152995104
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_114
+  - first:
+      213: 102518460277324753
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_115
+  - first:
+      213: -6433967044860630660
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_116
+  - first:
+      213: 129150458654148036
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_123
+  - first:
+      213: 7876808197941377629
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_124
+  - first:
+      213: -4226665244085135812
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_125
+  - first:
+      213: -6280782493745810997
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_126
+  - first:
+      213: -848930261485188643
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_127
+  - first:
+      213: 838573740471391382
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_128
+  - first:
+      213: -1541954442377289303
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_129
+  - first:
+      213: -7813867360619016115
+    second: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_130
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Edward_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbae435297ce6a4d0800000000000000
+      internalID: -3123549286475437379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 480
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb91e14850446fed0800000000000000
+      internalID: -2380640562536638020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764509163408b8740800000000000000
+      internalID: 5155355225343677543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 480
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf1d3e9888e858a0800000000000000
+      internalID: -6316042803919118407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892f8fe6c89af1120800000000000000
+      internalID: 2386812748151976600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab4c5712949d9d00800000000000000
+      internalID: 981103649014696879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68d41fa15c257e00800000000000000
+      internalID: 1041787618147489900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 480
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068faa96eff249fc0800000000000000
+      internalID: -3489111041564280736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745ec1581bac781f0800000000000000
+      internalID: -1042641924921694905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 480
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2c776e5d6845480800000000000000
+      internalID: -8911349509406604630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4808d16b793ad7b30800000000000000
+      internalID: 4286762292317356164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 448
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf875c8ecb59945c0800000000000000
+      internalID: -4230685736346224388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe99b87724e2018b0800000000000000
+      internalID: -5183592308095084049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 448
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6f3790a05939ba0800000000000000
+      internalID: -6083354801306601734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6918f8e005ebb090800000000000000
+      internalID: -8017562919531701906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 448
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bdc390b6a9981a0800000000000000
+      internalID: -6806739577286632698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 448
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a949304398d7e6f0800000000000000
+      internalID: -655317093809829468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 448
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db2ab3a8f8911cf0800000000000000
+      internalID: -283277107881432111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95371e46d5bf37240800000000000000
+      internalID: 4788447207367996249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_19
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 448
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23823f83ed4c6fe70800000000000000
+      internalID: 9148716151766984754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fde65e15392f1c90800000000000000
+      internalID: -7196988371395744263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 416
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeffac39710bb78f0800000000000000
+      internalID: -541645714857721874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09520b6086934140800000000000000
+      internalID: 4702767914200226059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 416
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7119fdea602b01e90800000000000000
+      internalID: -7056944874316132073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221cd3fe9687cec30800000000000000
+      internalID: 4390016133160091938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 416
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542cd864f979a5db0800000000000000
+      internalID: -4802359342297923003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 416
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba1b750166df9ad0800000000000000
+      internalID: -2693198339952141635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 416
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00baa09286322b130800000000000000
+      internalID: 3580963583985101568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d830a43075fb42d0800000000000000
+      internalID: -3293268840223328046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 416
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea0f95c5a8c7d5a0800000000000000
+      internalID: -6496503323147957526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ceb861777ac31f20800000000000000
+      internalID: 3392277558692724417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 384
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ed463b669da5f80800000000000000
+      internalID: -8116936343262274010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a2f9e114f92efb0800000000000000
+      internalID: -4619955165693269486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 384
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb24e7b6bde04160800000000000000
+      internalID: 7007862389213506498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7869f649443b5b00800000000000000
+      internalID: 818305246625884282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 384
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2924d14ce61a4ccd0800000000000000
+      internalID: -2538726792821390702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eaedf2b52245140800000000000000
+      internalID: 4707425285549501974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 384
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dd08c15a429d020800000000000000
+      internalID: 2366963370726317396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c060523a8bdccda0800000000000000
+      internalID: -5923118023302946623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caf4fad08cb42ff0800000000000000
+      internalID: -61717233261020480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 352
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe104705b8b0c0cc0800000000000000
+      internalID: -3743604497273585169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f517ab982dd475640800000000000000
+      internalID: 5068605472277950815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 352
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04eafeda26a923a90800000000000000
+      internalID: -7335631094417478080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a61eba7eace7a60800000000000000
+      internalID: 7673793911455836684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 352
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995c55f9440117de0800000000000000
+      internalID: -1337269727435307623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 352
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fa83104ae6aa7c0800000000000000
+      internalID: -4059310463446896818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 352
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc316da07b0a2250800000000000000
+      internalID: 5920557238705011898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25e5fdb5315b5eb0800000000000000
+      internalID: -4730097692360448721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_48
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 320
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be896fde942c69580800000000000000
+      internalID: -8820649197377775381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cd656e33e27a030800000000000000
+      internalID: 3505821635373882381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_50
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 320
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152a442ff28f7d000800000000000000
+      internalID: 60790004804526673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b436eaaf07f00b070800000000000000
+      internalID: 8120007106065490763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_52
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 320
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256190275da5736e0800000000000000
+      internalID: -1857916448479308206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31c6e06d948f8010800000000000000
+      internalID: 1193318237746938175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_54
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 320
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e27f8fb449c5720800000000000000
+      internalID: 2836304919356976747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781eac27e57b8e170800000000000000
+      internalID: 8208011937163436423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_56
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 288
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d21d329e3dce9710800000000000000
+      internalID: 1702023377817768657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cc65affdb95a820800000000000000
+      internalID: 2928918518954380421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 288
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06acee18414314110800000000000000
+      internalID: 1243332234814868064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e02d1f516f5a9740800000000000000
+      internalID: 5159541194918535398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_60
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 288
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd22ae247da26380800000000000000
+      internalID: -8979423992513155625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e96f4d3fb1f34360800000000000000
+      internalID: 7152826436864141797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 288
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cf2342b25ad9180800000000000000
+      internalID: -9106941266763776909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc990bb396eb6d6a0800000000000000
+      internalID: -6424738459215160884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_64
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 256
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ddd02978131d800800000000000000
+      internalID: 635343480776678675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535c84c70592e2170800000000000000
+      internalID: 8155501400873813301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_66
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 256
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afcbb0ca61533af0800000000000000
+      internalID: -417900821473407063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970c01744113ace80800000000000000
+      internalID: -8157653811866845063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_68
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 256
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d0aacb3da3bf490800000000000000
+      internalID: -7711505255864070846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Edward_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429b2516d7f412490800000000000000
+      internalID: -7772844081942447836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_70
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 256
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9476ed2a234c645b0800000000000000
+      internalID: -5384400582714955959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81297905e67d1b580800000000000000
+      internalID: -8813026126988865000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 224
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc70144369047c10800000000000000
+      internalID: 2050274052308761803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa8d17cded1a82b0800000000000000
+      internalID: -5581615881087251719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_74
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 224
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05464636a687d5d40800000000000000
+      internalID: 5574744312083932240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b72ce27484e127c0800000000000000
+      internalID: -4097742928415545420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_76
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 224
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cb384bba6860870800000000000000
+      internalID: 8648748206437678212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_77
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0988d7690408b00800000000000000
+      internalID: 828733346531545251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_78
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 224
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46676e81776a69d0800000000000000
+      internalID: -2780296082529753525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbdd2a1c06de2590800000000000000
+      internalID: -7696979365662434353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_80
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f211bcc59e2f4e0800000000000000
+      internalID: -1949239103944839421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebc68f70c806d880800000000000000
+      internalID: -8586666016668988439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0706ee24cd23060800000000000000
+      internalID: 6931844956501864691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84f31db3f836d3d0800000000000000
+      internalID: -3182293467190266739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_84
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217e51d39aade0250800000000000000
+      internalID: 5912903781193213714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a08d3af3e5633ae0800000000000000
+      internalID: -1570799815191854938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_86
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e105d431e832c70800000000000000
+      internalID: 8945149498440556042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5e650446098c8c0800000000000000
+      internalID: -3978771510531267086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_88
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 160
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2590a475e922fcdc0800000000000000
+      internalID: -3616633912290571950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8970a8ea0842ab1e0800000000000000
+      internalID: -2181390934404888680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_90
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 160
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d19fda6909058510800000000000000
+      internalID: 1550655582751396309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1427aa20e1c10720800000000000000
+      internalID: 2810740810988332062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_92
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce300a2ac58b42790800000000000000
+      internalID: -7555711566815951892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_93
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0779788dad6c2f0800000000000000
+      internalID: -952833647619641166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_94
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 160
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ab6078bc622ff70800000000000000
+      internalID: 9219474042766408262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d2ec4f2913c5ed0800000000000000
+      internalID: -2424007992190030575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_96
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 128
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50df4e32e9aa2d680800000000000000
+      internalID: -8731729131334206203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_97
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede76d70e7184aef0800000000000000
+      internalID: -97810913597948194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_98
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477440efaeefcc790800000000000000
+      internalID: -7508346193495963788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feabc57ee88948820800000000000000
+      internalID: 2919626197977316079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_100
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 128
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502959863f190b940800000000000000
+      internalID: 5309904435287527941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4568dcb0320f4cf0800000000000000
+      internalID: -265991444641585846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_102
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 128
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4b5af608ccad3f0800000000000000
+      internalID: -875162325569129255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249191c57a6d69020800000000000000
+      internalID: 2348300270013323586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_104
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9521dd6d86c26f20800000000000000
+      internalID: 3414509778235368859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_105
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e432a19f9f7fe4b60800000000000000
+      internalID: 7732390263239877454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_106
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d2208ab17f87640800000000000000
+      internalID: 5078080278015126808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_113
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fd0d3e1b1b37250800000000000000
+      internalID: 5941287711021260574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_114
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e24fab1e6eb974f0800000000000000
+      internalID: -830423276152995104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbffb71ff73c6100800000000000000
+      internalID: 102518460277324753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_116
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c792382bf05f5b6a0800000000000000
+      internalID: -6433967044860630660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5c8aa68a5dac100800000000000000
+      internalID: 129150458654148036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_124
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a3e2aa25b005d60800000000000000
+      internalID: 7876808197941377629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_125
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36d0d5ba5ed755c0800000000000000
+      internalID: -4226665244085135812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_126
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1f9c4599d26d8a0800000000000000
+      internalID: -6280782493745810997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9881dcc6ef734f0800000000000000
+      internalID: -848930261485188643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_128
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69494cebf5633ab00800000000000000
+      internalID: 838573740471391382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a12442ba90e99ae0800000000000000
+      internalID: -1541954442377289303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game-Boy-Advance---FullMetal-Alchemist-Stray-Rondo---Edward-Elric_130
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40d84009019f8390800000000000000
+      internalID: -7813867360619016115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

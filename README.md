@@ -63,6 +63,7 @@
   * [洛克人 X4 - 成套2d素材(国外)](https://www.aigei.com/view/53756.html)
   * [最终幻想 : 勇敢 Exvius - 成套2d素材(国外)-整套格斗动作](https://www.aigei.com/view/27574.html?page=10)
   * [城堡的冲突 - 成套2d素材(国外)](https://www.aigei.com/view/26715.html?page=2)
+  * [命运 / 无限的代码 - 成套2d素材(国外)](https://www.aigei.com/view/45833.html)
   * [资源包网站](http://www.zyb99.cn/241)
   * [像素小人制作工具（付费）](https://booth.pm/zh-cn/items/2490778)
   * [indienova 独立游戏](https://indienova.com/sp/gameDevResource)
