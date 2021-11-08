@@ -52,6 +52,9 @@
   * [Premium 2D Characters](https://assetstore.unity.com/packages/2d/characters/premium-2d-characters-98327)
 
 * 其他资源包
+  * [ScriptableObject的介绍](https://blog.csdn.net/bianchengxiaosheng/article/details/78226014)
+  * [itch.io](https://itch.io/)
+  * [itch.io](https://legnops.itch.io/red-hood-character/download/eyJleHBpcmVzIjoxNjM2MzQwOTM3LCJpZCI6NzkxODcyfQ%3d%3d.QveUATLDv7cc11RMQ5ysxX%2b2Ukk%3d)
   * [冒险酒吧的故事 - 成套2d素材(国外)](https://www.aigei.com/view/26191.html)
   * [恐龙王 - 成套2d素材(国外)-地图可参考](https://www.aigei.com/view/30959.html?page=2)
   * [Arcadias 战斗公主 - 成套2d素材(国外)](https://www.aigei.com/view/46094.html)
@@ -69,6 +72,10 @@
   * [indienova 独立游戏](https://indienova.com/sp/gameDevResource)
   * [像素画高级教程：8方向游戏角色](https://32comic.com/2020/08/13/%e5%83%8f%e7%b4%a0%e7%94%bb%e9%ab%98%e7%ba%a7%e6%95%99%e7%a8%8b%ef%bc%9a8%e6%96%b9%e5%90%91%e6%b8%b8%e6%88%8f%e8%a7%92%e8%89%b2/)
   * [百度贴吧 - 最经典的十款 FC 红白机 RPG 游戏](http://tieba.baidu.com/p/6841888066)
+  * [Unity Documentation](https://docs.unity3d.com/cn/2019.4/Manual/UnityWebRequest.html)
+  * [使用 Visual Studio Code 创建 .NET 控制台应用程序](https://docs.microsoft.com/zh-cn/dotnet/core/tutorials/with-visual-studio-code?WT.mc_id=dotnet-35129-website)
+  * [Unity 3D C# 脚本基础](http://c.biancheng.net/view/2678.html)
+  * [在Unity中实现TCP通信（附完整工程）](https://blog.csdn.net/qq_39748832/article/details/108540564)
 
 ---
 
@@ -202,6 +209,172 @@ public class PlayerController : MonoBehaviour
 
 ```
 
+早期留存脚本
+```
+using System.Collections;
+using System.Collections.Generic;
+using System.IO;
+using UnityEngine;
+using UnityEngine.Networking;
+
+public class script : MonoBehaviour
+{
+  public GameObject myCube;
+  public int transSpeed = 100;
+  public float rotaSpeed = 10.5f;
+  public float scale = 3;
+
+  void OnGUI()
+  {
+    if(GUILayout.Button("移动立方体")){
+      myCube.transform.Translate(Vector3.forward * transSpeed * Time.deltaTime, Space.World);
+    }
+    if(GUILayout.Button("旋转立方体")){
+      myCube.transform.Rotate(Vector3.up * rotaSpeed, Space.World);
+    }
+    if(GUILayout.Button("缩放立方体")){
+      myCube.transform.localScale = new Vector3(scale, scale, scale);
+    }
+  }
+
+  // Start is called before the first frame update
+  void Start()
+  {
+    // 协程
+    // https://blog.csdn.net/qq_15020543/article/details/82701551
+
+    // 网络地址
+    string uri = "http://localhost:7001";
+
+    // 本地地址
+    // var uri = new System.Uri(Path.Combine(Application.streamingAssetsPath, "data.json"));
+
+    // AssetBundles Url
+    // string uri = "file:///" + Application.dataPath + "/AssetBundles/" + assetBundleName;
+
+    StartCoroutine(HttpRequest(uri));
+
+    // 上传文件
+    
+  }
+
+  /***
+   * 网络请求
+   * 支持 GET，POST，PUT（上传） 方法
+   */
+  IEnumerator HttpRequest(string uri, byte[] data = null, string method = "get")
+  {
+    UnityWebRequest www;
+    
+    // 上传
+    if (method == "put")
+    {
+      byte[] myData = System.Text.Encoding.UTF8.GetBytes("This is some test data");
+      www = UnityWebRequest.Put(uri, myData);
+    }
+    else if (method == "post")
+    {
+      // 转 formData
+      List<IMultipartFormSection> myData = new List<IMultipartFormSection>();
+      myData.Add(new MultipartFormDataSection("field1=foo&field2=bar"));
+      myData.Add(new MultipartFormFileSection("my file data", "myfile.txt"));
+
+      www = UnityWebRequest.Post(uri, myData);
+    }
+    else
+    {
+      // uri 最后是图片后缀(png)
+      // UnityWebRequest www = UnityWebRequestTexture.GetTexture(uri);
+
+      // uri 最后是音频后缀(ogg)
+      // UnityWebRequest www = UnityWebRequestMultimedia.GetAudioClip(uri, AudioType.OGGVORBIS);
+
+      // uri 最后是Assetbundle(.unity3d)
+      // UnityWebRequest www = UnityWebRequestAssetBundle.GetAssetBundle(uri, 0);
+
+      // 网络请求
+      www = UnityWebRequest.Get(uri);
+
+      // 本地请求
+      // UnityWebRequest www = UnityWebRequest.Get(uri.AbsoluteUri);
+    }
+    
+    // 设置报头
+    // www.SetRequestHeader("Content-Type", "application/json");
+
+    yield return www.SendWebRequest();
+
+    // Debug.Log("status code:" + www.responseCode);
+    // Debug.Log(www.isHttpError);
+    
+    // if (www.isHttpError)
+    // if (www.result != UnityWebRequest.Result.Success)
+    if (www.result == UnityWebRequest.Result.ConnectionError)
+    {
+      Debug.Log(www.error);
+    }
+    else
+    {
+      string text = www.downloadHandler.text;           // 文本信息，使用UTF8编码解析
+      byte[] bytes = www.downloadHandler.data;          // 字节数组
+
+      Debug.Log(text);
+      Debug.Log(bytes);
+      
+      // uri 最后是图片后缀
+      // Texture myTexture = DownloadHandlerTexture.GetContent(www);
+      
+      // uri 最后是音频后缀(ogg)
+      // var audio = DownloadHandlerAudioClip.GetContent(www);
+
+      // uri 最后是Assetbundle(.unity3d)
+      // AssetBundle bundle = DownloadHandlerAssetBundle.GetContent(request);
+      // GameObject cube = bundle.LoadAsset<GameObject>("Cube");
+      // GameObject sprite = bundle.LoadAsset<GameObject>("Sprite");
+      // Instantiate(cube);
+      // Instantiate(sprite);
+
+      // Method Post
+      // Debug.Log("Form upload complete!");
+
+      // Method Upload
+      // Debug.Log("Upload complete!");
+    }
+  }
+
+  IEnumerator UploadTexture()
+  {
+    var tex = new Texture2D(1,1);
+    tex.ReadPixels(new Rect(0, 0, Screen.width, Screen.height), 0, 0);
+    tex.Apply();
+    // tex.Apply() 对性能影响较大，故等待一帧再执行
+    yield return null;
+    var bytes = tex.EncodeToPNG();
+    var form = new WWWForm();
+    form.AddBinaryData("screenshot", bytes);
+    var www = UnityWebRequest.Post("server url", form);
+    yield return www.SendWebRequest();
+    // ...
+  }
+
+
+  // 获取本地文件
+  IEnumerator RequestFile()
+  {
+    var uri = new System.Uri(Path.Combine(Application.streamingAssetsPath, "data.json"));
+    var request = UnityWebRequest.Get(uri.AbsoluteUri);
+    yield return request.SendWebRequest();
+
+    if (request.result == UnityWebRequest.Result.ConnectionError) {
+      Debug.Log(request.error);
+    } else {
+        Debug.Log(request.downloadHandler.text);
+    }
+  }
+}
+
+```
+
 ---
 
 ## Mac下.git文件夹不显示的问题
@@ -212,3 +385,10 @@ defaults write com.apple.finder.AppleShowAllFiles TRUE
 killall Finder
 ```
 如果重新把 `隐藏文件/夹` 隐藏起来，则只需把上面第一条命令中的 `TRUE` 改为 `FALSE`，然后重新运行两条命令即可。
+
+---
+
+## Cocos Creator 3.x海量资源资源，手把手教学
+```
+https://mp.weixin.qq.com/s?__biz=MjM5MTc1MjM2Ng==&mid=2247484247&idx=1&sn=c8a7be1cfaca21468548d3957f8b60bf&chksm=a6b18a9691c603806e24c1ecabfaae7b48269a5eb7ca9f8edd73aad39dd9e14c13d817760cff&mpshare=1&scene=23&srcid=1108fzbVjcozvQDvLVHcAfS8&sharer_sharetime=1636331914631&sharer_shareid=ae144912df1071bc517c60e0ad9ca41e#rd
+```
